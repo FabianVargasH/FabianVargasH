@@ -9,7 +9,7 @@ I'm a Software Engineering student at Universidad Cenfotec, currently specializi
 - C# ⚙️
 
 ## Experience 🧠
-- Active participant in the **CPC (Competitive Programming Club)** at Universidad Cenfotec — a training ground for students interested in algorithmic problem-solving and preparing for competitions like the ICPC.
+- Active participant in the ICPC
 
 # Certifications 💡:
 - NEO C1 Bridge Certification 
