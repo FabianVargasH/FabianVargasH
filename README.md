@@ -53,10 +53,10 @@
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/FabianVargas-4459/27FDB75775014A50?sharingId=495B6B57C6AAB247" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Azure AZ-900" width="80" height="80" title="Microsoft Azure Fundamentals (AZ-900)" />
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="https://www.dyned.com/certverify/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/555/555417.png" alt="English Certification" width="80" height="80" title="English Language Certification" />
   </a>
-  <a href="https://www.dyned.com/certverify/" target="_blank" rel="noreferrer">
+  <a href="https://www.udemy.com/certificate/UC-a3e82136-d3b6-496f-8838-41a7b1975d2b/" target="_blank" rel="noreferrer">
     <img src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Symbol.png" alt="Udemy Certification" width="80" height="80" title="Udemy Course Completion" />
   </a>
 </p>
