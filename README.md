@@ -1,7 +1,8 @@
-<img width="1920" height="882" alt="imagen bienvenida github" src="https://github.com/user-attachments/assets/d3d5c286-6c0a-419c-b2e5-ad1218687192" />
+
+![Card2](https://github.com/user-attachments/assets/9deaa6d3-1929-4679-b599-e8da38b83054)
 
 <h1 align="center">Hi 👋, I'm Fabián Vargas</h1>
-<h3 align="center">I'm a Software Engineering student, pursuing my degree through an <strong>Academic Excellence Scholarship</strong>. As a passionate Full-Stack Developer, I combine theoretical knowledge with practical experience to build innovative solutions. My expertise spans across competitive programming, and multiple programming languages.</h3>
+<h3 align="center">I'm a Software Engineering student, pursuing my degree through an <strong>Academic Excellence Scholarship</strong>. As a passionate Software Engineer, I combine theoretical knowledge with practical experience to build innovative solutions. My expertise spans across competitive programming, and multiple programming languages.</h3>
 
 📫 How to reach me **fabianvh2506@gmail.com**
 
