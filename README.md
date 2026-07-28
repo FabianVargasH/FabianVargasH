@@ -1,7 +1,7 @@
 ![gif1](https://github.com/user-attachments/assets/1c939fea-0dc1-4392-b68e-45c196d80189)
 
 <h1 align="center">Hi 👋, I'm Fabián Vargas</h1>
-<h3 align="center">I'm a Software Engineering student, pursuing my degree through an <strong>Academic Excellence Scholarship</strong>. As a passionate Software Engineer, I combine theoretical knowledge with practical experience to build innovative solutions. My expertise spans across competitive programming, and multiple programming languages.</h3>
+<h3 align="center">Software engineer passionate about software development and competitive programming.</h3>
 
 📫 How to reach me **fabianvh2506@gmail.com**
 
